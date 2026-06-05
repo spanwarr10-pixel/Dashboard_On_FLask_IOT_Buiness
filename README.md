@@ -13,3 +13,4 @@ Run:   python app.py
 Open:  http://localhost:3001
 CSV:   "File name" in same folder to place
 """
+<img width="1466" height="772" alt="image" src="https://github.com/user-attachments/assets/175fdfa0-f43f-4a26-8ca2-cc47499df9ae" />
